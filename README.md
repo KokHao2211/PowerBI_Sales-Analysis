@@ -39,3 +39,28 @@ The Power BI dashboard file contains the data model, Power Query transformations
 - Power Query
 - DAX
 - Excel
+
+## Data Analysis Process
+
+### Data Cleaning
+- Removed duplicate records
+- Handled missing values
+- Standardized date formats
+
+### Data Modelling
+- Created star schema
+- Built relationships between tables
+
+### DAX Measures
+Created:
+- Total Sales
+- Average Sales
+- YoY Growth
+- Sales Target Achievement %
+
+### Visualization
+Designed:
+- KPI cards
+- Trend charts
+- Regional comparison
+- Product ranking
