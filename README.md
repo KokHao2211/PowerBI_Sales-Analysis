@@ -1,2 +1,31 @@
-# PowerBI_Sales-Analysis
-Developed an interactive Power BI dashboard to analyze sales performance and uncover business insights from transactional data. The project demonstrates the complete analytical workflow from data preparation and modelling to visualization and reporting.
+# Power BI Sales Analysis Dashboard
+
+
+## Dashboard Preview
+
+
+
+
+## Project Overview
+
+This project analyzes sales performance using Power BI.
+
+The dashboard provides:
+- Sales trend analysis
+- Regional performance comparison
+- Product performance
+- Target vs actual sales
+
+
+## Dataset
+
+Dataset source:
+Kaggle SuperMarket Analysis Dataset
+
+
+## Tools Used
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Excel
